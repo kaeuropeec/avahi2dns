@@ -8,7 +8,7 @@ https://python-ScreenRecordModule.readthedocs.io/en/latest/
 Usage example
 -------------
 
-# piGameCreator
+# Casino
     from ScreenRecordModule import search
     for url in search('"Breaking Code" WordPress blog', stop=20):
         print(url)
